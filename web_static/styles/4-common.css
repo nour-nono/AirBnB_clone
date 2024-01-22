@@ -11,6 +11,12 @@
     margin: 30px auto;
 }
 
+body {
+    min-height: 100vh;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+}
 /* max width 1000px
 margin top and bottom 30px - it should be 30px under the bottom of the header (screenshot)
 center horizontally */
